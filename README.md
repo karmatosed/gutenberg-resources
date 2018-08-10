@@ -34,5 +34,6 @@ A growing collection focused around design and understanding of the Gutenberg pr
 ## News sites
 - https://gutenbergtimes.com/ (good summary)
 
-## Slide decks
+## My Slidedecks
 - Anatomy of a block: https://github.com/karmatosed/gutenberg-resources
+- Gutenberg Journey: keynote at WC Boston including notes: https://github.com/karmatosed/gutenberg-resources/blob/master/The%20Gutenberg%20journey.pdf
