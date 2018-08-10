@@ -33,3 +33,6 @@ A growing collection focused around design and understanding of the Gutenberg pr
 
 ## News sites
 - https://gutenbergtimes.com/ (good summary)
+
+## Slide decks
+- Anatomy of a block: https://github.com/karmatosed/gutenberg-resources
