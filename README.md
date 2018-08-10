@@ -5,6 +5,7 @@ A growing collection focused around design and understanding of the Gutenberg pr
 - https://wordpress.tv/2017/12/04/matt-mullenweg-state-of-the-word-2017/
 - https://wordpress.tv/2018/07/09/matias-ventura-beyond-gutenberg/
 - https://wordpress.tv/2018/07/08/tammie-lister-anatomy-of-a-block-gutenberg-design-patterns/
+- https://wordpress.tv/2017/12/10/morten-rand-hendriksen-gutenberg-and-the-wordpress-of-tomorrow/
 
 #### Team roundtable
 - https://wordpress.tv/2018/08/10/the-gutenberg-team-roundtable-with-the-gutenberg-team-part-1/
