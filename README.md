@@ -5,7 +5,7 @@ A growing collection focused around design and understanding of the Gutenberg pr
 - State of the word demo: https://wordpress.tv/2017/12/04/matt-mullenweg-state-of-the-word-2017/
 - WCEU: "Beyond Gutenberg": https://wordpress.tv/2018/07/09/matias-ventura-beyond-gutenberg/
 - WCEU: "Design Patterns": https://wordpress.tv/2018/07/08/tammie-lister-anatomy-of-a-block-gutenberg-design-patterns/
-- WCUS: "Future Gutenberg": https://wordpress.tv/2017/12/10/morten-rand-hendriksen-gutenberg-and-the-wordpress-of-tomorrow/ (community member visualises the potential)
+- WCUS: "Future Gutenberg": https://wordpress.tv/2017/12/10/morten-rand-hendriksen-gutenberg-and-the-wordpress-of-tomorrow/ (visualises the potential)
 
 #### Team roundtable
 - WCEU: roundtable with core team: https://wordpress.tv/2018/08/10/the-gutenberg-team-roundtable-with-the-gutenberg-team-part-1/
