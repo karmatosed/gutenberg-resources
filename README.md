@@ -20,8 +20,9 @@ A growing collection focused around design and understanding of the Gutenberg pr
 - https://frontenberg.tomjn.com/
 
 ## Documentation
-- https://wordpress.org/gutenberg/handbook/reference/design-principles/
-- https://wordpress.org/gutenberg/handbook/language/
+- Design principles: https://wordpress.org/gutenberg/handbook/reference/design-principles/
+- Language: https://wordpress.org/gutenberg/handbook/language/
+- History: https://wordpress.org/gutenberg/handbook/reference/history/
 
 ## Templates
 - https://github.com/10up/SketchPress
