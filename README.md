@@ -13,6 +13,7 @@ A growing collection focused around design and understanding of the Gutenberg pr
 
 #### Phase 2 : Customization
 - https://www.youtube.com/watch?v=k_ESRtMksLQ
+- Parrot exploration: https://intenseminimalism.com/2017/parrot-an-integrated-site-builder-and-editor-concept-for-wordpress/
 
 ## Demosites
 - https://wordpress.org/gutenberg/
