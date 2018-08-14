@@ -43,5 +43,5 @@ A growing collection focused around design and understanding of the Gutenberg pr
 - https://gutenbergtimes.com/ (good summary)
 
 ## My Slidedecks
-- Anatomy of a block: https://github.com/karmatosed/gutenberg-resources
+- Anatomy of a block: https://karmatosed.github.io/talk-gutenberg-anatomyofablock/
 - Gutenberg Journey: keynote at WC Boston including notes: https://github.com/karmatosed/gutenberg-resources/blob/master/The%20Gutenberg%20journey.pdf
